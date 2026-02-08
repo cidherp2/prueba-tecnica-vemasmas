@@ -25,3 +25,5 @@ npm run preview
 - URL-synced filters
 
 ## Deploy real PWA
+
+https://pokeve.netlify.app/
