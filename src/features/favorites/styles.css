@@ -1,0 +1,26 @@
+.containerStyle {
+  padding: 8px;
+  max-width: 100%;
+  color:white;
+}
+
+/* Tablet ONLY */
+@media (min-width: 481px) and (max-width: 1023px) {
+  .containerStyle {
+    padding: 12px;
+    max-width: 720px;
+    min-width: 481px;
+      width: 1023px;
+ 
+  } 
+}
+
+/* Desktop */
+@media (min-width: 1024px) {
+  .containerStyle {
+    padding: 24px 40px;
+    min-width: 1024px;
+    width:100%;
+   
+  }
+}
